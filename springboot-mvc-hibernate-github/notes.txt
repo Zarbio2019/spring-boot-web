@@ -1,0 +1,68 @@
+1_Spring Security+Hibernate+Spring MVC
+https://www.youtube.com/watch?v=3TMHPCGWTqA&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-1/
+
+2_Setup o Configuracion
+https://www.youtube.com/watch?v=fWOlTvmBiQA&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=2
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-1/
+https://github.com/cruizg93/Spring-Boot-Aplicacion
+
+	2-1_Spring Boot_Configuracion
+	https://www.youtube.com/watch?v=Rey0UA0HVaw
+
+3_Entidades
+https://www.youtube.com/watch?v=5NENwP3V3RE&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=3
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-2/
+
+4_Estructura HTML+Bootstrap+CSS
+https://www.youtube.com/watch?v=NEdissnIBNU&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=4
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-3/
+	
+	4-1_Login Form HTML+Bootstrap 4
+	https://www.youtube.com/watch?v=GHdOSI9hQvc&feature=youtu.be
+	http://cristianruizblog.com/html-ejemplo-de-inicio-de-sesion-con-bootstrap-4/
+
+	4-2_CRUD Form usuario HTML+Bootstrap 4
+	https://www.youtube.com/watch?v=qJkfLugBj7I&feature=youtu.be
+	http://cristianruizblog.com/html-ejemplo-crud-con-bootstrap4/
+	
+5_Repositorios y Datos
+https://www.youtube.com/watch?v=5kCXN_Q72qI&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=5
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-4/
+
+	5-1_Spring Boot Profiles_Inyección de Dependencias (DESCARGA PENDIENTE)
+	https://www.youtube.com/watch?v=10B6qZDiEd8
+	
+6_Create User
+https://www.youtube.com/watch?v=OiHXoMscd9w&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=6
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-5/
+
+7_Update User
+https://www.youtube.com/watch?v=uqPMd0sdOs0&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=7
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-6/
+
+8_Delete User
+https://www.youtube.com/watch?v=rUOG8P4Z9HM&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=8
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-7/
+
+9_Password using Ajax
+https://www.youtube.com/watch?v=OPKyKdTGv9A&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=9
+
+10_Spring Security
+https://www.youtube.com/watch?v=f8g4MKKlYMg&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=10
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-9/
+
+11_Paginas de Error y Excepciones
+https://www.youtube.com/watch?v=C1iiftjczTM&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=11
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-10/
+
+12_BONUS_Correccion de errores
+https://www.youtube.com/watch?v=XMCv3YRAaL0&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=12
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-11/
+
+13_Signup o Registro de usuarios
+https://www.youtube.com/watch?v=i-sBVDL5Iqs&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=13
+
+14_Heroku deploy
+https://www.youtube.com/watch?v=p_Mu4uwSj-c&list=PLcaI8vM1NK3teGT4oVi9JzyX8WLdkgbz_&index=14
+http://cristianruizblog.com/spring-boot-aplicacion-web-parte-13-heroku-deploy/
